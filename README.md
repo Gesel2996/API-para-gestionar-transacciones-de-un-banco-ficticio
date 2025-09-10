@@ -1,6 +1,6 @@
 <img src="Arquivos/img/logo.png"  alt="Logo Bluebank" title="Logo Bluebank"></img>
-<h1 align="center" id="topo">Olá, seja bem vindo(a) à API Bluebank</h1>
-Esse projeto consiste em uma API para gerenciar as transações de um banco fictício utilizando Java, MySQL e AWS. Efetuamos a aplicação por meio de Spring Boot, usando Maven com CRUD e dividimos as funções em microserviços. Para o banco de dados utilizamos o MySql com deploy no Docker e pipeline em Jenkins, e por fim, fizemos uso da AWS como servidor para manter a aplicação por meio da instância EC2.
+<h1 align="center" id="topo">bienvenido a la API de Bluebank</h1>
+Este proyecto consiste en una API para gestionar transacciones de un banco ficticio utilizando Java, MySQL y AWS. Efetuamos una aplicación por medio de Spring Boot, usando Maven con CRUD y dividimos como funciones en microservicios. Para el banco de datos utilizamos MySql con implementación en Docker y pipeline en Jenkins, y por fim, utilizamos AWS como servidor para mantener una aplicación por medio de la instancia EC2.
 
 <h3>Sumário</h3>
 <ul>
@@ -329,94 +329,3 @@ A pipeline faz o checkout do projeto através do git, faz o build das aplicaçõ
         <img align="center" alt="Xampp" title="Xampp" height="80" width="90" src="Arquivos/img/xampp.svg"/>
     </a>
 </div>
-
-<h3 id="licenca">Liçenca</h3>
-Este projeto está sob a licença MIT. Você pode achar mais informações relacionadas a essa licença no arquivo <a href="LICENSE">LICENSE</a>, contido neste repositório.
-
-<h3 id="agradecimentos">Agradecimentos</h3>
-Agradecemos ao Banco Pan e a Gama Academy pela iniciativa do projeto Pan Academy, que possibilitou uma nova jornada de conhecimento a todos os selecionados. Aos professores, por nos acompanhar e instruir nessa jornada. A todos os mentores que dedicaram um pouco do seu tempo compartilhando conhecimentos e experiências conosco. Aos nossos colegas de classe. E por último, aos membros da nossa Squad, sem nenhum de nós, esse projeto não seria possível.
-
-<h3 id="squad">Nós somos a Squad DezKTop...</h3>
-Você pode ver mais acerca do nosso desenvolvimento através dos repositórios contidos no GitHub e nos contatar pelo linkedin. Agradecemos desde já o tempo que você dedicou a leitura deste arquivo.😄
-<br><br>
-	
-<a href="https://storyset.com/work">
-   <img src="Arquivos/img/developer.svg" min-width="350px" max-width="350px" width="350px" align="right"  alt="Work illustrations by Storyset">
-</a>
-<table width="40%">
-    <tr>
-        <td>
-            <img src="Arquivos/img/squad/ivan.jpeg" alt="Foto Ivan" height="70px" style="border-radius:10px">
-        </td>
-        <td align="center">
-            <a href="https://github.com/ivancmc">
-                <img src="https://img.shields.io/badge/%20Ivan%20%20%20%20%20%20%20%20%20Cardoso%20-10?style=social&logo=github&logoColor=006A8A" width="150px;" alt="GitHub" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/ivancmc/" target="_blank" alt="Linkedin">
-                <img src="https://img.shields.io/badge/%20Ivan%20%20%20%20%20%20%20%20%20Cardoso%20-0077B5?style=social&logo=linkedin&logoColor=00C6FF&" width="150px;" alt="Linkedin" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="Arquivos/img/squad/luana.jpeg" alt="Foto Luana" height="70px" style="border-radius:10px">
-        </td>
-        <td align="center">
-            <a href="https://github.com/LuanaSantosNascimento">
-                <img src="https://img.shields.io/badge/Luana%20Nascimento-10?style=social&logo=github&logoColor=006A8A" width="150px;" alt="GitHub" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/luana-nascimento-853240221/" target="_blank" alt="Linkedin">
-                <img src="https://img.shields.io/badge/Luana%20Nascimento-0077B5?style=social&logo=linkedin&logoColor=00C6FF" width="150px;" alt="Linkedin" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="Arquivos/img/squad/lucas.png" alt="Foto Lucas" height="70px" style="border-radius:10px">
-        </td>
-        <td align="center">
-            <a href="https://github.com/lucas-rl">
-                <img src="https://img.shields.io/badge/Lucas%20Rodrigues-10?style=social&logo=github&logoColor=006A8A" width="150px;" alt="GitHub" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/lucas-rodrigues-l/" target="_blank" alt="Linkedin">
-                <img src="https://img.shields.io/badge/Lucas%20Rodrigues-0077B5?style=social&logo=linkedin&logoColor=00C6FF" width="150px;" alt="Linkedin" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="Arquivos/img/squad/mayckon.jpeg" alt="Foto Mayckon" height="70px" style="border-radius:10px">
-        </td>
-        <td align="center">
-            <a href="https://github.com/Mayckon-Prado">
-                <img src="https://img.shields.io/badge/Mayckon%20%20%20%20Prado-10?style=social&logo=github&logoColor=006A8A" width="150px;" alt="GitHub" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/mayckon-morian-marqui-prado-a9195571/" target="_blank" alt="Linkedin">
-                <img src="https://img.shields.io/badge/Mayckon%20%20%20%20%20Prado-0077B5?style=social&logo=linkedin&logoColor=00C6FF" width="150px;" alt="Linkedin" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="Arquivos/img/squad/wendel.jpeg" alt="Foto Wendel" height="70px" style="border-radius:10px">
-        </td>
-        <td align="center">
-            <a href="https://github.com/dantaswendel">
-                <img src="https://img.shields.io/badge/%20Wendel%20%20%20%20%20Dantas%20%20-10?style=social&logo=github&logoColor=006A8A" width="150px;" alt="GitHub" />
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/wendel-dantas-lima-5104b0166/" target="_blank" alt="Linkedin">
-                <img src="https://img.shields.io/badge/%20Wendel%20%20%20%20%20%20Dantas%20%20-0077B5?style=social&logo=linkedin&logoColor=00C6FF" width="150px;" alt="Linkedin" />
-            </a>
-        </td>
-</table>
-<p align="right"><a href="#topo">Você pode voltar ao topo clicando aqui ↑</a></p>
