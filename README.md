@@ -40,9 +40,7 @@ Este proyecto consiste en una API para gestionar transacciones de un banco ficti
 </ul>
 
 <h1 align="center" id="apresentacao">Apresentação</h1>
-Hey !! Agradecemos o seu interesse no nosso projeto 😃.<br>Preparamos alguns gifs para você dar uma olhadinha no funcionamento da nossa API !<br>
-Nossa demonstração consiste em: Construir uma Pipeline no Jenkins, criar um cliente e cadastrá-lo nos serviços de SNS para que ele possa receber os emails da nossa API, e mostramos a relização de um saque e de um pagamento - e os extratos de ambas as transações.<br>
-Você pode ver o vídeo original clicando <a href="https://youtu.be/1LcA_5C8uHc">aqui</a>,  assistir a nossa apresentação clicando <a href="https://youtu.be/xeWyVoJjQWs">aqui</a> ou acessando diretamente do <a href="#topo">Sumário</a>.
+Construir una tubería en Jenkins, crear un cliente y catastro de nuestros servicios de SNS para que pueda recibir los correos electrónicos de nuestra API, y mostramos a relização de un saque y de un pago - y los extratos de ambas como transacciones.
 <br><br>
 <div align="center">
 	<img src="Arquivos/Apresentacao/Bluebank_Jenkins.gif" alt="Demonstração em gif - Jenkins" title="BlueBank API"></img><br>
