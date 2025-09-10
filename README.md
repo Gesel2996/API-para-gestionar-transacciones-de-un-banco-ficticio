@@ -7,37 +7,6 @@ Este proyecto consiste en una API para gestionar transacciones de un banco ficti
 	<a href="https://storyset.com/work">
 		<img src="Arquivos/img/Scrum board.gif" min-width="350px" max-width="350px" width="350px" align="right"  alt="Work illustrations by Storyset" title="Work illustrations by Storyset">
 	</a>
-	<li><a href="#apresentacao">Apresentação</a></li>
-	<ul>
-		<li><a href="Arquivos/Apresentacao/Slides_SQUAD_DezKTop.pdf">Slides</a></li>
-		<li><a href="https://youtu.be/1LcA_5C8uHc">Demonstração em Vídeo</a></li>
-		<li><a href="https://youtu.be/xeWyVoJjQWs">Apresentação do projeto para a Banca Examinadora</a></li>
-	</ul>
-	<li><a href="#requisitos">Requisitos e Funcionalidades</a></li>
-	<ul>
-		<li><a href="#RQEntrega">Requisitos de Entrega</a></li>
-        <li><a href="#RQFuncionais">Requisitos Funcionais</a></li>
-        <li><a href="#endpoints">Endpoints</a></li>
-        <ul>
-            <li><a href="#swagger">Swagger</a></li>
-			<li><a href="#postman">Postman</a></li>
-        </ul>
-    </ul>
-	<li><a href="#desenvolvimento">Desenvolvimento</a></li>
-    <ul>
-		<li><a href="#jira">Quadro Kanban</a></li>
-		<li><a href="#testes">Execução dos Testes</a></li>
-		<li><a href="#aws">AWS</a></li>
-		<ul>
-			<li><a href="#deploy">Estratégia de Deploy</a></li>
-			<li><a href="#servicos">Serviços Utilizados</a></li>
-		</ul>
-	</ul>
-    <li><a href="#tecnologias">Tecnologias e Ferramentas</a></li>
-    <li><a href="#licenca">Licença</a></li>
-    <li><a href="#agradecimentos">Agradecimentos</a></li>
-    <li><a href="#squad">Squad DezKTop</a></li>
-</ul>
 
 <h1 align="center" id="apresentacao">Apresentação</h1>
 Construir una tubería en Jenkins, crear un cliente y catastro de nuestros servicios de SNS para que pueda recibir los correos electrónicos de nuestra API, y mostramos a relização de un saque y de un pago - y los extratos de ambas como transacciones.
